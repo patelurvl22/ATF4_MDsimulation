@@ -33,7 +33,7 @@
 
 * **fulllength_atf4_structures:** The wtATF4(1-351) structure files
   * "FL_ATF4(1-351)basin_high.pdb" file is wtATF4(1-351) , replica#3 convereged structure from basin
-  * **atf4(123-351):** This directory strcuture files related to truncated mutation of ATF4(123-351)
+  * **atf4(123-351):** This directory has structure files related to truncated mutation of ATF4(123-351)
   * **d110a_d90a_atf4:** This directory has structure files related to double point mutation @ 90th and 110th position of wtATF4(1-351) from Aspartic acid to alanine.
   
 </br>
